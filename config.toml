@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "es-pe"
+title = "Constituciones Políticas del Perú"
+theme = "book"
+[taxonomies]
+  constitucion = "constituciones"
+  tag = "tags"
