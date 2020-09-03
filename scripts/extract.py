@@ -95,63 +95,50 @@ def parse_constitucion(constitucion_text):
             constitucion.titulos.append(Titulo(nombre_titulo, capitulos, articulos))
     return constitucion
 
-def write_constitucion(constitucion, constitucion_path):
-    constitucion_file = open(constitucion_path + "/_index.md", "a")
+def write_constitucion(year, constitucion, constitucion_path):
+    summary = "- [Constitución Política de " + year +"](./" + year + "/README.md)\n"
 
-    constitucion_file.write("---\n")
-    constitucion_file.write("title: \"Constitucion de 1993\"\n")
-    constitucion_file.write("date: 2019-03-26T08:47:11+01:00\n")
-    constitucion_file.write("---\n\n")
+    constitucion_file = open(constitucion_path + "/README.md", "a")
 
     for titulo in constitucion.titulos:
-        titulo_path = constitucion_path + "/titulo-" + titulo.numero.lower()
+        titulo_dir = "titulo-" + titulo.numero.lower()
+        summary = summary + "  - [" + titulo.nombre + "](./" + year + "/" + titulo_dir + "/README.md)\n"
+        titulo_path = constitucion_path + "/" + titulo_dir
         try:
            os.makedirs(titulo_path)
         except OSError:
            print(titulo_path + " already exists")
         if (len(titulo.capitulos) > 0):
-            titulo_file = open(titulo_path + "/_index.md", "a")
-            titulo_file.write("---\n")
-            titulo_file.write("title: \""+ titulo.nombre +"\"\n")
-            titulo_file.write("date: 2019-03-26T08:47:11+01:00\n")
-            titulo_file.write("constitucion: \"1993\"\n")
-            titulo_file.write("type: \"titulo\"\n")
-            titulo_file.write("---\n\n")
+            titulo_file = open(titulo_path + "/README.md", "a")
+            titulo_file.write("# "+ titulo.nombre )
             for capitulo in titulo.capitulos:
-                capitulo_path = titulo_path + "/capitulo-" + capitulo.numero.lower() + ".md"
+                capitulo_filename = "capitulo-" + capitulo.numero.lower() + ".md"
+                summary = summary + "    - [" + capitulo.nombre + "](./" + year + "/" + titulo_dir + "/" + capitulo_filename + ")\n"
+                capitulo_path = titulo_path + "/" + capitulo_filename
                 capitulo_file = open(capitulo_path, "a")
-                capitulo_file.write("---\n")
-                capitulo_file.write("title: \""+ capitulo.nombre +"\"\n")
-                capitulo_file.write("date: 2019-03-26T08:47:11+01:00\n")
-                capitulo_file.write("constitucion: \"1993\"\n")
-                capitulo_file.write("type: \"capitulo\"\n")
-                capitulo_file.write("---\n\n")
+                capitulo_file.write("# " + capitulo.nombre)
                 for articulo in capitulo.articulos:
-                    capitulo_file.write("## " + articulo.nombre + "\n" + "\n")
+                    capitulo_file.write("\n" + "## " + articulo.nombre + "\n")
                     capitulo_file.write(articulo.texto + "\n" + "\n")
                 capitulo_file.close()
             titulo_file.close()
         if (len(titulo.articulos) > 0):
-            titulo_file = open(titulo_path + "/index.md", "a")
-            titulo_file.write("---\n")
-            titulo_file.write("title: \""+ titulo.nombre +"\"\n")
-            titulo_file.write("date: 2019-03-26T08:47:11+01:00\n")
-            titulo_file.write("constitucion: \"1993\"\n")
-            titulo_file.write("type: \"titulo\"\n")
-            titulo_file.write("---\n\n")
+            titulo_file = open(titulo_path + "/README.md", "a")
+            titulo_file.write("# "+ titulo.nombre)
             for articulo in titulo.articulos:
-                titulo_file.write("## " + articulo.nombre + "\n" + "\n")
+                titulo_file.write("\n" + "## " + articulo.nombre +  "\n")
                 titulo_file.write(articulo.texto)
             titulo_file.close()
-        constitucion_file.write("## " + titulo.nombre + "\n" + "\n")
 
     constitucion_file.close()
+    return summary
 
 path = os.getcwd()
-constitucion_path = path + "/content/docs/1993"
-#os.rmdir(constitucion_path)
+constitucion_year = "1993"
+constitucion_path = path + "/src/" + constitucion_year
 os.mkdir(constitucion_path)
 constitucion_pdf_path = 'static/Texto_actualizado_CONS_1993.pdf'
 constitucion_text = pdf_text(constitucion_pdf_path)
 constitucion = parse_constitucion(constitucion_text)
-write_constitucion(constitucion, constitucion_path)
+summary = write_constitucion(constitucion_year, constitucion, constitucion_path)
+print(summary)

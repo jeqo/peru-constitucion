@@ -1,0 +1,10 @@
+[book]
+authors = ["Jorge Esteban Quilcate Otoya"]
+language = "es"
+multilingual = false
+src = "src"
+title = "Constituciones Poliíticas del Perú"
+
+[output.html]
+additional-css = ["custom/style.css"]
+additional-js = ["custom/sidebar.js"]

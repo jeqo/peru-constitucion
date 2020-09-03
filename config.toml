@@ -1,7 +1,0 @@
-baseURL = "https://jeqo.github.io/peru-constitucion"
-languageCode = "es-pe"
-title = "Constituciones Políticas del Perú"
-theme = "book"
-[taxonomies]
-  constitucion = "constituciones"
-  tag = "tags"
