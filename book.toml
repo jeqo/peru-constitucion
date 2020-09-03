@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "Constituciones Poliíticas del Perú"
 
+[build]
+build-dir = "public"
+
 [output.html]
 additional-css = ["custom/style.css"]
 additional-js = ["custom/sidebar.js"]
