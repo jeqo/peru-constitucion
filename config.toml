@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jeqo.github.io/peru-constitucion"
 languageCode = "es-pe"
 title = "Constituciones Políticas del Perú"
 theme = "book"
