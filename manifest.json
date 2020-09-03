@@ -1,14 +1,14 @@
 {
   "name": "Constituciones Políticas del Perú",
   "short_name": "Constituciones Políticas del Perú",
-  "start_url": "/peru-constitucion/",
-  "scope": "/peru-constitucion/",
+  "start_url": "/jeqo.github.io/peru-constitucion/",
+  "scope": "/jeqo.github.io/peru-constitucion/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/peru-constitucion/favicon.svg",
+      "src": "/jeqo.github.io/peru-constitucion/favicon.svg",
       "sizes": "512x512"
     }
   ]
