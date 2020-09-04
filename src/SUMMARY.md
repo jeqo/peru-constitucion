@@ -32,3 +32,6 @@
       - [CAPITULO XIV DE LA DESCENTRALIZACION](./1993/titulo-iv/capitulo-xiv.md)
     - [TITULO V DE LAS GARANTIAS CONSTITUCIONALES](./1993/titulo-v/README.md)
     - [TITULO VI DE LA REFORMA DE LA CONSTITUCION](./1993/titulo-vi/README.md)
+    - [DISPOSICIONES FINALES Y TRANSITORIAS](./1993/disposiciones-finales-y-transitorias.md)
+    - [DISPOSICIONES TRANSITORIAS ESPECIALES](./1993/disposiciones-transitorias-especiales.md)
+    - [DECLARACION](./1993/declaracion.md)  
