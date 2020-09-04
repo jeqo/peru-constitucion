@@ -1,6 +1,8 @@
 # CAPITULO II DE LOS DERECHOS SOCIALES Y ECONOMICOS
 ## Artículo 4
-La comunidad y el Estado protegen especialmente al niño, al adolescente, a la madre y al anciano en situación de abandono. También protegen a la familia y promueven el matrimonio. Reconocen a estos últimos como institutos naturales y fundamentales de la sociedad. La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley. 5 
+La comunidad y el Estado protegen especialmente al niño, al adolescente, a la madre y al anciano en situación de abandono.
+También protegen a la familia y promueven el matrimonio. Reconocen a estos últimos como institutos naturales y fundamentales de la sociedad. 
+La forma del matrimonio y las causas de separación y de disolución son reguladas por la ley. 
 
 
 ## Artículo 5
@@ -8,15 +10,23 @@ La unión estable de un varón y una mujer, libres de impedimento matrimonial, q
 
 
 ## Artículo 6
-La política nacional de población tiene como objetivo difundir y promover la paternidad y maternidad responsables. Reconoce el derecho de las familias y de las personas a decidir. En tal sentido, el Estado asegura los programas de educación y la información adecuados y el acceso a los medios, que no afecten la vida o la salud. Es deber y derecho de los padres alimentar, educar y dar seguridad a sus hijos. Los hijos tienen el deber de respetar y asistir a sus padres. Todos los hijos tienen iguales derechos y deberes. Está prohibida toda mención sobre el estado civil de los padres y sobre la naturaleza de la filiación en los registros civiles y en cualquier otro documento de identidad. 
+La política nacional de población tiene como objetivo difundir y promover la paternidad y maternidad responsables. 
+Reconoce el derecho de las familias y de las personas a decidir. 
+En tal sentido, el Estado asegura los programas de educación y la información adecuados y el acceso a los medios, que no afecten la vida o la salud. 
+Es deber y derecho de los padres alimentar, educar y dar seguridad a sus hijos. 
+Los hijos tienen el deber de respetar y asistir a sus padres. 
+Todos los hijos tienen iguales derechos y deberes. 
+Está prohibida toda mención sobre el estado civil de los padres y sobre la naturaleza de la filiación en los registros civiles y en cualquier otro documento de identidad. 
 
 
 ## Artículo 7
-Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad así como el deber de contribuir a su promoción y defensa. La persona incapacitada para velar por sí misma a causa de una deficiencia física o mental tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad. 
+Todos tienen derecho a la protección de su salud, la del medio familiar y la de la comunidad así como el deber de contribuir a su promoción y defensa. 
+La persona incapacitada para velar por sí misma a causa de una deficiencia física o mental tiene derecho al respeto de su dignidad y a un régimen legal de protección, atención, readaptación y seguridad. 
 
 
 ## Artículo 8
-El Estado combate y sanciona el tráfico ilícito de drogas. Asimismo, regula el uso de los tóxicos sociales. 
+El Estado combate y sanciona el tráfico ilícito de drogas. 
+Asimismo, regula el uso de los tóxicos sociales. 
 
 
 ## Artículo 9
