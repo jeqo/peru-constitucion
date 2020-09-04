@@ -10,7 +10,7 @@ No procede contra normas legales ni contra Resoluciones Judiciales emanadas de p
 6. La Acción de Cumplimiento, que procede contra cualquier autoridad o funcionario renuente a acatar una norma legal o un acto administrativo, sin perjuicio de las responsabilidades de ley. 
 Una ley orgánica regula el ejercicio de estas garantías y los efectos de la declaración de inconstitucionalidad o ilegalidad de las normas. 
 El ejercicio de las acciones de hábeas corpus y de amparo no se suspende durante la vigencia de los regímenes de excepción a que se refiere el artículo 137 de la Constitución. 
-Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del 48 acto restrictivo. 
+Cuando se interponen acciones de esta naturaleza en relación con derechos restringidos o suspendidos, el órgano jurisdiccional competente examina la razonabilidad y la proporcionalidad del acto restrictivo. 
 No corresponde al juez cuestionar la declaración del estado de emergencia ni de sitio. 
 
 ## Artículo 201

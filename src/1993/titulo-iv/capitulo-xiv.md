@@ -83,7 +83,7 @@ Son competentes para:
 5. Organizar, reglamentar y administrar los servicios públicos locales de su responsabilidad. 
 6. Planificar el desarrollo urbano y rural de sus circunscripciones, incluyendo la zonificación, urbanismo y el acondicionamiento territorial. 
 7. Fomentar la competitividad, las inversiones y el financiamiento para la ejecución de proyectos y obras de infraestructura local. 
-8. Desarrollar y regular actividades y/o servicios en materia de educación, salud, vivienda, saneamiento, medio ambiente, sustentabilidad de los recursos naturales, transporte colectivo, 46 circulación y tránsito, turismo, conservación de monumentos arqueológicos e históricos, cultura, recreación y deporte, conforme a ley. 
+8. Desarrollar y regular actividades y/o servicios en materia de educación, salud, vivienda, saneamiento, medio ambiente, sustentabilidad de los recursos naturales, transporte colectivo, circulación y tránsito, turismo, conservación de monumentos arqueológicos e históricos, cultura, recreación y deporte, conforme a ley. 
 9. Presentar iniciativas legislativas en materias y asuntos de su competencia. 
 10. Ejercer las demás atribuciones inherentes a su función, conforme a ley. 
 
@@ -115,5 +115,5 @@ Las municipalidades de frontera tienen, asimismo, régimen especial en la Ley Or
 
 ## Artículo 199
 Los gobiernos regionales y locales son fiscalizados por sus propios órganos de fiscalización y por los organismos que tengan tal atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría General de la República, la que organiza un sistema de control descentralizado y permanente. 
-Los mencionados gobiernos formulan sus 47 presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.  
+Los mencionados gobiernos formulan sus presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.  
 

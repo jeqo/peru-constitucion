@@ -17,7 +17,7 @@ Los delitos cometidos por medio del libro, la prensa y demás medios de comunica
 Es delito toda acción que suspende o clausura algún órgano de expresión o le impide circular libremente. 
 Los derechos de informar y opinar comprenden los de fundar medios de comunicación. 
 5. A solicitar sin expresión de causa la información que requiera y a recibirla de cualquier entidad pública, en el plazo legal, con el costo que suponga el pedido. 
-Se exceptúan las informaciones 2 que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.  
+Se exceptúan las informaciones que afectan la intimidad personal y las que expresamente se excluyan por ley o por razones de seguridad nacional.  
 El secreto bancario y la reserva tributaria pueden levantarse a pedido del Juez, del Fiscal de la Nación, o de una comisión investigadora del Congreso con arreglo a ley y siempre que se refieran al caso investigado. 
 6. A que los servicios informáticos, computarizados o no, públicos o privados, no suministren informaciones que afecten la intimidad personal y familiar. 
 7. Al honor y a la buena reputación, a la intimidad personal y familiar así como a la voz y a la imagen propias. 

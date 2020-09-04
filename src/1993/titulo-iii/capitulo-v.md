@@ -31,7 +31,7 @@ En caso de remoción, los nuevos directores completan el correspondiente períod
 ## Artículo 87
 El Estado fomenta y garantiza el ahorro. 
 La ley establece las obligaciones y los límites de las empresas que reciben ahorros del público, así como el modo y los alcances de dicha garantía. 
-La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones ejerce el control de las empresas bancarias, de seguros, de administración de fondos de pensiones, de las 20 demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley. 
+La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones ejerce el control de las empresas bancarias, de seguros, de administración de fondos de pensiones, de las demás que reciben depósitos del público y de aquellas otras que, por realizar operaciones conexas o similares, determine la ley. 
 La ley establece la organización y la autonomía funcional de la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones. 
 El Poder Ejecutivo designa al Superintendente de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones por el plazo correspondiente a su período constitucional. 
 El Congreso lo ratifica.  
