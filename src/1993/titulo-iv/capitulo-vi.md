@@ -16,7 +16,7 @@ El Presidente del Consejo de Ministros puede plantear ante el Congreso una cuest
 
 
 ## Artículo 134
-El Presidente de la República está facultado para disolver el Congreso si éste ha censurado o negado su confianza a dos Consejos de Ministros. El decreto de disolución contiene la convocatoria a elecciones para un nuevo Congreso. Dichas elecciones se realizan dentro de los cuatro meses de la fecha de disolución, sin que pueda alterarse el sistema electoral preexistente. 31 No puede disolverse el Congreso en el último año de su mandato. Disuelto el Congreso, se mantiene en funciones la Comisión Permanente, la cual no puede ser disuelta. No hay otras formas de revocatoria del mandato parlamentario. Bajo estado de sitio, el Congreso no puede ser disuelto. 
+El Presidente de la República está facultado para disolver el Congreso si éste ha censurado o negado su confianza a dos Consejos de Ministros. El decreto de disolución contiene la convocatoria a elecciones para un nuevo Congreso. Dichas elecciones se realizan dentro de los cuatro meses de la fecha de disolución, sin que pueda alterarse el sistema electoral preexistente. No puede disolverse el Congreso en el último año de su mandato. Disuelto el Congreso, se mantiene en funciones la Comisión Permanente, la cual no puede ser disuelta. No hay otras formas de revocatoria del mandato parlamentario. Bajo estado de sitio, el Congreso no puede ser disuelto. 
 
 
 ## Artículo 135
