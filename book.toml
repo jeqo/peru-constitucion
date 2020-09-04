@@ -5,9 +5,15 @@ multilingual = false
 src = "src"
 title = "Constituciones Poliíticas del Perú"
 
-[build]
-build-dir = "public"
-
 [output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+no-section-label = false
+git-repository-url = "https://github.com/jeqo/peru-constitucion"
+git-repository-icon = "fa-github"
+site-url = "https://jeqo.github.io/peru-constitucion/"
 additional-css = ["custom/style.css"]
 additional-js = ["custom/sidebar.js"]

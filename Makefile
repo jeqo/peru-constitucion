@@ -1,5 +1,18 @@
 all:
 
+build:
+	mdbook build
+
+prepare-deploy:
+	git worktree add public gh-pages
+
+deploy: build
+	rm -rf public/*
+	cp -rp book/* public/.
+	cd public && \
+		git add -A && git commit -m "publish" && git push origin gh-pages
+	
+
 get:
 	mkdir -p static/consticiones
 	wget ${URL} -O static/consticiones/${YEAR}.pdf
