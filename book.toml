@@ -17,3 +17,4 @@ git-repository-icon = "fa-github"
 site-url = "https://jeqo.github.io/peru-constitucion/"
 additional-css = ["custom/style.css"]
 additional-js = ["custom/sidebar.js"]
+google-analytics = "UA-49047812-4"
