@@ -44,7 +44,7 @@ Los miembros titulares del Consejo Nacional de la Magistratura son elegidos, con
 
 
 ## Artículo 156
-Para ser miembro del Consejo Nacional de la Magistratura se requieren los mismos requisitos que para ser Vocal de la Corte Suprema, salvo lo previsto en el inciso 4 del artículo 147. 
+Para ser miembro del Consejo Nacional de la Magistratura se requieren los mismos requisitos que para ser Vocal de la Corte Suprema, salvo lo previsto en el inciso 4 del [artículo 147](../titulo-iv/capitulo-viii.html#artículo-147). 
 El miembro del Consejo Nacional de la Magistratura goza de los mismos beneficios y derechos y está sujeto a las mismas obligaciones e incompatibilidades. 
 
 

@@ -23,13 +23,13 @@ La Presidencia de la República vaca por:
 2. Su permanente incapacidad moral o física, declarada por el Congreso. 
 3. Aceptación de su renuncia por el Congreso. 
 4. Salir del territorio nacional sin permiso del Congreso o no regresar a él dentro del plazo fijado. Y 
-5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el artículo 117 de la Constitución. 
+5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el [artículo 117](../titulo-iv/capitulo-iv.html#artículo-117) de la Constitución. 
 
 
 ## Artículo 114
 El ejercicio de la Presidencia de la República se suspende por: 
 1. Incapacidad temporal del Presidente, declarada por el Congreso, o 
-2. Hallarse éste sometido a proceso judicial, conforme al artículo 117 de la Constitución. 
+2. Hallarse éste sometido a proceso judicial, conforme al [artículo 117](../titulo-iv/capitulo-iv.html#artículo-117) de la Constitución. 
 
 
 ## Artículo 115
@@ -46,7 +46,7 @@ El Presidente de la República presta juramento de ley y asume el cargo, ante el
 
 
 ## Artículo 117
-El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el artículo 134 de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. 
+El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el [artículo 134](../titulo-iv/capitulo-vi.html#artículo-134) de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. 
 
 
 ## Artículo 118

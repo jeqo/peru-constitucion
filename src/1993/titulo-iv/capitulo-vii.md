@@ -2,7 +2,7 @@
 ## Artículo 137
 El Presidente de la República, con acuerdo del Consejo de Ministros, puede decretar, por plazo determinado, en todo el territorio nacional, o en parte de él, y dando cuenta al Congreso o a la Comisión Permanente, los estados de excepción que en este artículo se contemplan: 
 1. Estado de emergencia, en caso de perturbación de la paz o del orden interno, de catástrofe o de graves circunstancias que afecten la vida de la Nación. 
-En esta eventualidad, puede restringirse o suspenderse el ejercicio de los derechos constitucionales relativos a la libertad y la seguridad personales, la inviolabilidad del domicilio, y la libertad de reunión y de tránsito en el territorio comprendidos en los incisos 9, 11 y 12 del artículo 2 y en el inciso 24, apartado f del mismo artículo. 
+En esta eventualidad, puede restringirse o suspenderse el ejercicio de los derechos constitucionales relativos a la libertad y la seguridad personales, la inviolabilidad del domicilio, y la libertad de reunión y de tránsito en el territorio comprendidos en los incisos 9, 11 y 12 del [artículo 2](../titulo-i/capitulo-i.html#artículo-2) y en el inciso 24, apartado f del mismo artículo. 
 En ninguna circunstancia se puede desterrar a nadie. 
 El plazo del estado de emergencia no excede de sesenta días. 
 Su prórroga requiere nuevo decreto. 

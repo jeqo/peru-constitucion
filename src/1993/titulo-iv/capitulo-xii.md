@@ -15,7 +15,7 @@ La ley determina los alcances y procedimientos de la movilización para los efec
 ## Artículo 165
 Las Fuerzas Armadas están constituidas por el Ejército, la Marina de Guerra y la Fuerza Aérea. 
 Tienen como finalidad primordial garantizar la independencia, la soberanía y la integridad territorial de la República. 
-Asumen el control del orden interno de conformidad con el artículo 137 de la Constitución. 
+Asumen el control del orden interno de conformidad con el [artículo 137](../titulo-iv/capitulo-vii.html#artículo-137) de la Constitución. 
 
 
 ## Artículo 166
@@ -59,7 +59,7 @@ El Presidente de la República otorga los ascensos de los generales y almirantes
 ## Artículo 173
 En caso de delito de función, los miembros de las Fuerzas Armadas y de la Policía Nacional están sometidos al fuero respectivo y al Código de Justicia Militar. 
 Las disposiciones de éste no son aplicables a los civiles, salvo en el caso de los delitos de traición a la patria y de terrorismo que la ley determina. 
-La casación a que se refiere el artículo 141 sólo es aplicable cuando se imponga la pena de muerte. 
+La casación a que se refiere el [artículo 141](../titulo-iv/capitulo-viii.html#artículo-141) sólo es aplicable cuando se imponga la pena de muerte. 
 Quienes infringen las normas del Servicio Militar Obligatorio están asimismo sometidos al Código de Justicia Militar. 
 
 

@@ -49,7 +49,7 @@ La pena de muerte sólo puede aplicarse por el delito de traición a la Patria e
 
 ## Artículo 141
 Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuando la acción se inicia en una Corte Superior o ante la propia Corte Suprema conforme a ley. 
-Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el artículo 173. 
+Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el [artículo 173](../titulo-iv/capitulo-xii.html#artículo-173). 
 
 
 ## Artículo 142
