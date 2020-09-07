@@ -13,7 +13,7 @@ deploy: build
 	rm -rf public/*
 	cp -rp book/* public/.
 	cd public && \
-		git add -A && git commit -m "publish" && git push origin gh-pages
+		git add -A && git commit -m "publish" && git push -f origin gh-pages
 	
 
 get:
