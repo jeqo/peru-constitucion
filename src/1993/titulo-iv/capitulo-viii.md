@@ -1,11 +1,11 @@
 # CAPITULO VIII PODER JUDICIAL
-## Artículo 138
+## ARTICULO 138
 La potestad de administrar justicia emana del pueblo y se ejerce por el Poder Judicial a través de sus órganos jerárquicos con arreglo a la Constitución y a las leyes. 
 En todo proceso, de existir incompatibilidad entre una norma constitucional y una norma legal, los jueces prefieren la primera. 
 Igualmente, prefieren la norma legal sobre toda otra norma de rango inferior. 
 
 
-## Artículo 139
+## ARTICULO 139
 Son principios y derechos de la función jurisdiccional: 
 1. La unidad y exclusividad de la función jurisdiccional. 
 No existe ni puede establecerse jurisdicción alguna independiente, con excepción de la militar y la arbitral. 
@@ -43,34 +43,34 @@ Los órganos jurisdiccionales no pueden darle posesión del cargo, bajo responsa
 22. El principio de que el régimen penitenciario tiene por objeto la reeducación, rehabilitación y reincorporación del penado a la sociedad. 
 
 
-## Artículo 140
+## ARTICULO 140
 La pena de muerte sólo puede aplicarse por el delito de traición a la Patria en caso de guerra, y el de terrorismo, conforme a las leyes y a los tratados de los que el Perú es parte obligada. 
 
 
-## Artículo 141
+## ARTICULO 141
 Corresponde a la Corte Suprema fallar en casación, o en última instancia, cuando la acción se inicia en una Corte Superior o ante la propia Corte Suprema conforme a ley. 
-Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el [artículo 173](../titulo-iv/capitulo-xii.html#artículo-173). 
+Asimismo, conoce en casación las resoluciones del Fuero Militar, con las limitaciones que establece el [artículo 173](../titulo-iv/capitulo-xii.html#articulo-173). 
 
 
-## Artículo 142
+## ARTICULO 142
 No son revisables en sede judicial las resoluciones del Jurado Nacional de Elecciones en materia electoral, ni las del Consejo Nacional de la Magistratura en materia de evaluación y ratificación de jueces. 
 
 
-## Artículo 143
+## ARTICULO 143
 El Poder Judicial está integrado por órganos jurisdiccionales que administran justicia en nombre de la Nación, y por órganos que ejercen su gobierno y administración. 
 Los órganos jurisdiccionales son: la Corte Suprema de Justicia y las demás cortes y juzgados que determine su ley orgánica. 
 
 
-## Artículo 144
+## ARTICULO 144
 El Presidente de la Corte Suprema lo es también del Poder Judicial.
 La Sala Plena de la Corte Suprema es el órgano máximo de deliberación del Poder Judicial. 
 
 
-## Artículo 145
+## ARTICULO 145
 El Poder Judicial presenta su proyecto de presupuesto al Poder Ejecutivo y lo sustenta ante el Congreso. 
 
 
-## Artículo 146
+## ARTICULO 146
 La función jurisdiccional es incompatible con cualquiera otra actividad pública o privada, con excepción de la docencia universitaria fuera del horario de trabajo. 
 Los jueces sólo perciben las remuneraciones que les asigna el Presupuesto y las provenientes de la enseñanza o de otras tareas expresamente previstas por la ley. 
 El Estado garantiza a los magistrados judiciales: 
@@ -82,7 +82,7 @@ No pueden ser trasladados sin su consentimiento.
 4. Una remuneración que les asegure un nivel de vida digno de su misión y jerarquía. 
 
 
-## Artículo 147
+## ARTICULO 147
 Para ser Magistrado de la Corte Suprema se requiere: 
 1. Ser peruano de nacimiento; 
 2. Ser ciudadano en ejercicio; 
@@ -90,11 +90,11 @@ Para ser Magistrado de la Corte Suprema se requiere:
 4. Haber sido magistrado de la Corte Superior o Fiscal Superior durante diez años, o haber ejercido la abogacía o la cátedra universitaria en materia jurídica durante quince años. 
 
 
-## Artículo 148
+## ARTICULO 148
 Las resoluciones administrativas que causan estado son susceptibles de impugnación mediante la acción contencioso-administrativa. 
 
 
-## Artículo 149
+## ARTICULO 149
 Las autoridades de las Comunidades Campesinas y Nativas, con el apoyo de las Rondas Campesinas, pueden ejercer las funciones jurisdiccionales dentro de su ámbito territorial de conformidad con el derecho consuetudinario, siempre que no violen los derechos fundamentales de la persona. 
 La ley establece las formas de coordinación de dicha jurisdicción especial con los Juzgados de Paz y con las demás instancias del Poder Judicial.  
 

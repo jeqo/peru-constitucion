@@ -1,5 +1,5 @@
 # CAPITULO XI DE LA DEFENSORIA DEL PUEBLO
-## Artículo 161
+## ARTICULO 161
 La Defensoría del Pueblo es autónoma. 
 Los órganos públicos están obligados a colaborar con la Defensoría del Pueblo cuando ésta lo requiere. 
 Su estructura, en el ámbito nacional, se establece por ley orgánica. 
@@ -10,7 +10,7 @@ El cargo dura cinco años y no está sujeto a mandato imperativo.
 Tiene las mismas incompatibilidades que los vocales supremos. 
 
 
-## Artículo 162
+## ARTICULO 162
 Corresponde a la Defensoría del Pueblo defender los derechos constitucionales y fundamentales de la persona y de la comunidad; y supervisar el cumplimiento de los deberes de la administración estatal y la prestación de los servicios públicos a la ciudadanía. 
 El Defensor del Pueblo presenta informe al Congreso una vez al año, y cada vez que éste lo solicita. 
 Tiene iniciativa en la formación de las leyes. 

@@ -1,9 +1,9 @@
 # CAPITULO I DERECHOS FUNDAMENTALES DE LA PERSONA
-## Artículo 1
+## ARTICULO 1
 La defensa de la persona humana y el respeto de su dignidad son el fin supremo de la sociedad y del Estado. 
 
 
-## Artículo 2
+## ARTICULO 2
 Toda persona tiene derecho: 
 1. A la vida, a su identidad, a su integridad moral, psíquica y física y a su libre desarrollo y bienestar. 
 El concebido es sujeto de derecho en todo cuanto le favorece. 
@@ -81,6 +81,6 @@ h. Nadie debe ser víctima de violencia moral, psíquica o física, ni sometido 
 Carecen de valor las declaraciones obtenidas por la violencia. Quien la emplea incurre en responsabilidad. 
 
 
-## Artículo 3
+## ARTICULO 3
 La enumeración de los derechos establecidos en este capítulo no excluye los demás que la Constitución garantiza, ni otros de naturaleza análoga o que se fundan en la dignidad del hombre, o en los principios de soberanía del pueblo, del Estado democrático de derecho y de la forma republicana de gobierno. 
 

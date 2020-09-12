@@ -1,5 +1,5 @@
 # TITULO VI DE LA REFORMA DE LA CONSTITUCION
-## Artículo 206
+## ARTICULO 206
 Toda reforma constitucional debe ser aprobada por el Congreso con mayoría absoluta del número legal de sus miembros, y ratificada mediante referéndum. 
 Puede omitirse el referéndum cuando el acuerdo del Congreso se obtiene en dos legislaturas ordinarias sucesivas con una votación favorable, en cada caso, superior a los dos tercios del número legal de congresistas. 
 La ley de reforma constitucional no puede ser observada por el Presidente de la República. 

@@ -1,10 +1,10 @@
 # CAPITULO IV PODER EJECUTIVO
-## Artículo 110
+## ARTICULO 110
 El Presidente de la República es el Jefe del Estado y personifica a la Nación. 
 Para ser elegido Presidente de la República se requiere ser peruano por nacimiento, tener más de treinta y cinco años de edad al momento de la postulación y gozar del derecho de sufragio. 
 
 
-## Artículo 111
+## ARTICULO 111
 El Presidente de la República se elige por sufragio directo. 
 Es elegido el candidato que obtiene más de la mitad de los votos. 
 Los votos viciados o en blanco no se computan. 
@@ -12,27 +12,27 @@ Si ninguno de los candidatos obtiene la mayoría absoluta, se procede a una segu
 Junto con el Presidente de la República son elegidos, de la misma manera, con los mismos requisitos y por igual término, dos vicepresidentes. 
 
 
-## Artículo 112
+## ARTICULO 112
 El mandato presidencial es de cinco años, no hay reelección inmediata. 
 Transcurrido otro período constitucional, como mínimo, el ex presidente puede volver a postular, sujeto a las mismas condiciones. 
 
 
-## Artículo 113
+## ARTICULO 113
 La Presidencia de la República vaca por: 
 1. Muerte del Presidente de la República. 
 2. Su permanente incapacidad moral o física, declarada por el Congreso. 
 3. Aceptación de su renuncia por el Congreso. 
 4. Salir del territorio nacional sin permiso del Congreso o no regresar a él dentro del plazo fijado. Y 
-5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el [artículo 117](../titulo-iv/capitulo-iv.html#artículo-117) de la Constitución. 
+5. Destitución, tras haber sido sancionado por alguna de las infracciones mencionadas en el [artículo 117](../titulo-iv/capitulo-iv.html#articulo-117) de la Constitución. 
 
 
-## Artículo 114
+## ARTICULO 114
 El ejercicio de la Presidencia de la República se suspende por: 
 1. Incapacidad temporal del Presidente, declarada por el Congreso, o 
-2. Hallarse éste sometido a proceso judicial, conforme al [artículo 117](../titulo-iv/capitulo-iv.html#artículo-117) de la Constitución. 
+2. Hallarse éste sometido a proceso judicial, conforme al [artículo 117](../titulo-iv/capitulo-iv.html#articulo-117) de la Constitución. 
 
 
-## Artículo 115
+## ARTICULO 115
 Por impedimento temporal o permanente del Presidente de la República, asume sus funciones el Primer Vicepresidente. 
 En defecto de éste, el Segundo Vicepresidente. 
 Por impedimento de ambos, el Presidente del Congreso. 
@@ -41,15 +41,15 @@ Cuando el Presidente de la República sale del territorio nacional, el Primer Vi
 En su defecto, lo hace el Segundo Vicepresidente.  
 
 
-## Artículo 116
+## ARTICULO 116
 El Presidente de la República presta juramento de ley y asume el cargo, ante el Congreso, el 28 de julio del año en que se realiza la elección. 
 
 
-## Artículo 117
-El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el [artículo 134](../titulo-iv/capitulo-vi.html#artículo-134) de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. 
+## ARTICULO 117
+El Presidente de la República sólo puede ser acusado, durante su período, por traición a la Patria; por impedir las elecciones presidenciales, parlamentarias, regionales o municipales; por disolver el Congreso, salvo en los casos previstos en el [artículo 134](../titulo-iv/capitulo-vi.html#articulo-134) de la Constitución, y por impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. 
 
 
-## Artículo 118
+## ARTICULO 118
 Corresponde al Presidente de la República: 
 1. Cumplir y hacer cumplir la Constitución y los tratados, leyes y demás disposiciones legales. 
 2. Representar al Estado, dentro y fuera de la República. 

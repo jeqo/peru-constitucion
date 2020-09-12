@@ -1,17 +1,17 @@
 # CAPITULO XIV DE LA DESCENTRALIZACION
-## Artículo 188
+## ARTICULO 188
 La descentralización es una forma de organización democrática y constituye una política permanente de Estado, de carácter obligatorio, que tiene como objetivo fundamental el desarrollo integral del país. 
 El proceso de descentralización se realiza por etapas, en forma progresiva y ordenada conforme a criterios que permitan una adecuada asignación de competencias y transferencia de recursos del gobierno nacional hacia los gobiernos regionales y locales. 
 Los Poderes del Estado y los Organismos Autónomos así como el Presupuesto de la República se descentralizan de acuerdo a ley.  
 
 
-## Artículo 189
+## ARTICULO 189
 El territorio de la República está integrado por regiones, departamentos, provincias y distritos, en cuyas circunscripciones se constituye y organiza el gobierno a nivel nacional, regional y local, en los términos que establece la Constitución y la ley, preservando la unidad e integridad del Estado y de la Nación. 
 El ámbito del nivel regional de gobierno son las regiones y departamentos. 
 El ámbito del nivel local de gobierno son las provincias, distritos y los centros poblados. 
 
 
-## Artículo 190
+## ARTICULO 190
 Las regiones se crean sobre la base de áreas contiguas integradas histórica, cultural, administrativa y económicamente, conformando unidades geoeconómicas sostenibles. 
 El proceso de regionalización se inicia eligiendo gobiernos en los actuales departamentos y la Provincia Constitucional del Callao. 
 Estos gobiernos son gobiernos regionales. 
@@ -22,7 +22,7 @@ Mientras dure el proceso de integración, dos o más gobiernos regionales podrá
 La ley determinará esos mecanismos. 
 
 
-## Artículo 191
+## ARTICULO 191
 Los gobiernos regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia. 
 Coordinan con las municipalidades sin interferir sus funciones y atribuciones. 
 La estructura orgánica básica de estos gobiernos la conforman el Consejo Regional como órgano normativo y fiscalizador, el Presidente como órgano ejecutivo, y el Consejo de Coordinación Regional integrado por los alcaldes provinciales y por representantes de la sociedad civil, como órgano consultivo y de coordinación con las municipalidades, con las funciones y atribuciones que les señala la ley. 
@@ -35,7 +35,7 @@ La ley establece porcentajes mínimos para hacer accesible la representación de
 Igual tratamiento se aplica para los Concejos Municipales. 
 
 
-## Artículo 192
+## ARTICULO 192
 Los gobiernos regionales promueven el desarrollo y la economía regional, fomentan las inversiones, actividades y servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y locales de desarrollo. 
 Son competentes para: 
 1. Aprobar su organización interna y su presupuesto. 
@@ -50,7 +50,7 @@ Son competentes para:
 10. Ejercer las demás atribuciones inherentes a su función, conforme a ley. 
 
 
-## Artículo 193
+## ARTICULO 193
 Son bienes y rentas de los gobiernos regionales: 
 1. Los bienes muebles e inmuebles de su propiedad. 
 2. Las transferencias específicas que les asigne la Ley Anual de Presupuesto. 
@@ -62,7 +62,7 @@ Son bienes y rentas de los gobiernos regionales:
 8. Los demás que determine la ley. 
 
 
-## Artículo 194
+## ARTICULO 194
 Las municipalidades provinciales y distritales son los órganos de gobierno local. 
 Tienen autonomía política, económica y administrativa en los asuntos de su competencia. 
 Las municipalidades de los centros poblados son creadas conforme a ley. 
@@ -73,7 +73,7 @@ Su mandato es revocable, conforme a ley, e irrenunciable, con excepción de los 
 Para postular a Presidente de la República, Vicepresidente, miembro del Parlamento Nacional o Presidente del Gobierno Regional; los Alcaldes deben renunciar al cargo seis (6) meses antes de la elección respectiva. 
 
 
-## Artículo 195
+## ARTICULO 195
 Los gobiernos locales promueven el desarrollo y la economía local, y la prestación de los servicios públicos de su responsabilidad, en armonía con las políticas y planes nacionales y regionales de desarrollo. 
 Son competentes para: 
 1. Aprobar su organización interna y su presupuesto. 
@@ -88,7 +88,7 @@ Son competentes para:
 10. Ejercer las demás atribuciones inherentes a su función, conforme a ley. 
 
 
-## Artículo 196
+## ARTICULO 196
 Son bienes y rentas de las municipalidades: 
 1. Los bienes muebles e inmuebles de su propiedad. 
 2. Los tributos creados por ley a su favor. 
@@ -101,19 +101,19 @@ Son bienes y rentas de las municipalidades:
 9. Los demás que determine la ley. 
 
 
-## Artículo 197
+## ARTICULO 197
 Las municipalidades promueven, apoyan y reglamentan la participación vecinal en el desarrollo local. 
 Asimismo brindan servicios de seguridad ciudadana, con la cooperación de la Policía Nacional del Perú, conforme a ley. 
 
 
-## Artículo 198
+## ARTICULO 198
 La Capital de la República no integra ninguna región. 
 Tiene régimen especial en las leyes de descentralización y en la Ley Orgánica de Municipalidades. 
 La Municipalidad Metropolitana de Lima ejerce sus competencias dentro del ámbito de la provincia de Lima. 
 Las municipalidades de frontera tienen, asimismo, régimen especial en la Ley Orgánica de Municipalidades. 
 
 
-## Artículo 199
+## ARTICULO 199
 Los gobiernos regionales y locales son fiscalizados por sus propios órganos de fiscalización y por los organismos que tengan tal atribución por mandato constitucional o legal, y están sujetos al control y supervisión de la Contraloría General de la República, la que organiza un sistema de control descentralizado y permanente. 
 Los mencionados gobiernos formulan sus presupuestos con la participación de la población y rinden cuenta de su ejecución, anualmente, bajo responsabilidad, conforme a ley.  
 

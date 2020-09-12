@@ -1,5 +1,5 @@
 # CAPITULO X DEL MINISTERIO PUBLICO
-## Artículo 158
+## ARTICULO 158
 El Ministerio Público es autónomo. 
 El Fiscal de la Nación lo preside. 
 Es elegido por la Junta de Fiscales Supremos. 
@@ -9,7 +9,7 @@ Les afectan las mismas incompatibilidades.
 Su nombramiento está sujeto a requisitos y procedimientos idénticos a los de los miembros del Poder Judicial en su respectiva categoría. 
 
 
-## Artículo 159
+## ARTICULO 159
 Corresponde al Ministerio Público: 
 1. Promover de oficio, o a petición de parte, la acción judicial en defensa de la legalidad y de los intereses públicos tutelados por el derecho. 
 2. Velar por la independencia de los órganos jurisdiccionales y por la recta administración de justicia. 
@@ -21,7 +21,7 @@ Con tal propósito, la Policía Nacional está obligada a cumplir los mandatos d
 7. Ejercer iniciativa en la formación de las leyes; y dar cuenta al Congreso, o al Presidente de la República, de los vacíos o defectos de la legislación. 
 
 
-## Artículo 160
+## ARTICULO 160
 El proyecto de presupuesto del Ministerio Público se aprueba por la Junta de Fiscales Supremos. 
 Se presenta ante el Poder Ejecutivo y se sustenta en esa instancia y en el Congreso.  
 
